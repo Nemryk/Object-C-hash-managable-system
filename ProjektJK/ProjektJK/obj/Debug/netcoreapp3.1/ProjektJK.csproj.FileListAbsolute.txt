@@ -1,0 +1,13 @@
+C:\Users\Nemryk\source\repos\StudiaJK\ProjektJK\ProjektJK\bin\Debug\netcoreapp3.1\ProjektJK.exe
+C:\Users\Nemryk\source\repos\StudiaJK\ProjektJK\ProjektJK\bin\Debug\netcoreapp3.1\ProjektJK.deps.json
+C:\Users\Nemryk\source\repos\StudiaJK\ProjektJK\ProjektJK\bin\Debug\netcoreapp3.1\ProjektJK.runtimeconfig.json
+C:\Users\Nemryk\source\repos\StudiaJK\ProjektJK\ProjektJK\bin\Debug\netcoreapp3.1\ProjektJK.runtimeconfig.dev.json
+C:\Users\Nemryk\source\repos\StudiaJK\ProjektJK\ProjektJK\bin\Debug\netcoreapp3.1\ProjektJK.dll
+C:\Users\Nemryk\source\repos\StudiaJK\ProjektJK\ProjektJK\bin\Debug\netcoreapp3.1\ProjektJK.pdb
+C:\Users\Nemryk\source\repos\StudiaJK\ProjektJK\ProjektJK\obj\Debug\netcoreapp3.1\ProjektJK.csprojAssemblyReference.cache
+C:\Users\Nemryk\source\repos\StudiaJK\ProjektJK\ProjektJK\obj\Debug\netcoreapp3.1\ProjektJK.AssemblyInfoInputs.cache
+C:\Users\Nemryk\source\repos\StudiaJK\ProjektJK\ProjektJK\obj\Debug\netcoreapp3.1\ProjektJK.AssemblyInfo.cs
+C:\Users\Nemryk\source\repos\StudiaJK\ProjektJK\ProjektJK\obj\Debug\netcoreapp3.1\ProjektJK.csproj.CoreCompileInputs.cache
+C:\Users\Nemryk\source\repos\StudiaJK\ProjektJK\ProjektJK\obj\Debug\netcoreapp3.1\ProjektJK.dll
+C:\Users\Nemryk\source\repos\StudiaJK\ProjektJK\ProjektJK\obj\Debug\netcoreapp3.1\ProjektJK.pdb
+C:\Users\Nemryk\source\repos\StudiaJK\ProjektJK\ProjektJK\obj\Debug\netcoreapp3.1\ProjektJK.genruntimeconfig.cache
